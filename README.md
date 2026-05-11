@@ -96,8 +96,3 @@ The Grad-CAM visualization highlights the regions influencing the CNN prediction
 - Real-time clinical integration
 - Improved explainability techniques
 - Larger dataset training
-
----
-
-## Author
-Devika S
